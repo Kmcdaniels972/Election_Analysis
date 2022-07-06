@@ -32,6 +32,10 @@ The analysis of the election show that:
     - Jefferson County had a 10.5% voter turnout with 38,855 voted.
 - The county with the highest voter turnout was:
     - Denver County
-    
+## Challenge Overview
+1. Calculate the number of votes for each county
+2. Calculate the percentage of votes for each county
+3. Determine the county with the largest voter turnout in comparison of the counties.
+
 ## Challenge Summary
 This script could be use to automate and generate an easiy to reab report of the election results for any local congressional election. Running the script verses having humans count, can remove counting errors, human bias, and cut down on the vote processing time. To tailor the script to fit any election you would need to change the path location of the election data, make sure the election results file is CSV format, and update the path to the output file you want.
